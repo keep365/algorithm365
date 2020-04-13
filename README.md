@@ -21,3 +21,4 @@ node --experimental-modules src/xxx
 - [9.回文数](./src/9.isPalindrome/note.md)
 - [13.罗马数字转整数](./src/13.romanToInt/note.md)
 - [14.最长公共前缀](./src/14.longestCommonPrefix/note.md)
+- [20.有效的括号](./src/20.isValid/note.md)
