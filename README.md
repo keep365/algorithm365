@@ -10,8 +10,12 @@
 # create new folder
 node build/createFile.js [index] [name] [title] [link]
 
-# node -v v8.16.0
-node --experimental-modules src/xxx
+# node -v v13.2.0
+node src/xxx
+
+# mocha test
+# https://mochajs.org/#nodejs-native-esm-support
+npm test
 ```
 
 ## Easy

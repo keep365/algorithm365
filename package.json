@@ -1,0 +1,33 @@
+{
+  "name": "algorithm365",
+  "version": "1.0.0",
+  "description": "欢迎 issue 讨论 😀",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keep365/algorithm365.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keep365/algorithm365/issues"
+  },
+  "homepage": "https://github.com/keep365/algorithm365#readme",
+  "engines": {
+    "node": ">=13.2"
+  }
+}
