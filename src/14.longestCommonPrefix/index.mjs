@@ -1,4 +1,4 @@
-import longestCommonPrefix from './1'
+import longestCommonPrefix from './1.mjs'
 /**
 ["flower","flow","flight"] -> "fl"
 ["dog","racecar","car"] -> ''

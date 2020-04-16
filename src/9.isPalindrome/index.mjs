@@ -1,4 +1,4 @@
-import isPalindrome from './4'
+import isPalindrome from './4.mjs'
 
 // 整数
 // 个位数 true，负数 false

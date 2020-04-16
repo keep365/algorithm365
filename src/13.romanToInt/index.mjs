@@ -1,4 +1,4 @@
-import romanToInt from './1'
+import romanToInt from './1.mjs'
 /**
 字符          数值
 I             1

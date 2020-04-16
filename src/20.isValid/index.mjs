@@ -1,4 +1,4 @@
-import isValid from './1'
+import isValid from './1.mjs'
 // () {} []
 // ({[]}) (){}[] () ([)]
 // 入栈出栈，成对出，不成入，栈空为 true
