@@ -27,6 +27,7 @@ npm test
 - [14.最长公共前缀](./src/14.longestCommonPrefix/note.md)
 - [20.有效的括号](./src/20.isValid/note.md)
 - [21.合并两个有序链表](./src/21.mergeTwoLists/note.md)
+- [26.删除排序数组中的重复项](./src/26.removeDuplicates/note.md)
 
 ## Structure
 
