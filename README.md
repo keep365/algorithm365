@@ -31,4 +31,5 @@ npm test
 
 ## Structure
 
+- [算法复杂度](./src/structure/complexity/note.md)
 - [单链表(Singly linked list)](./src/structure/linked-list/note.md)
