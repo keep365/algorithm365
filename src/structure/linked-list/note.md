@@ -61,7 +61,11 @@
 
 ![array-linked-curd](./img/4f63e92598ec2551069a0eef69db7168.jpg)
 
-## TODO
+---
+
+## Exercise
+
+TODO
 
 ### LRU singly linked
 

@@ -18,6 +18,10 @@ node src/xxx
 npm test
 ```
 
+## Structure
+
+- [数据结构和算法](./src/structure/note.md)
+
 ## Easy
 
 - [1.两数之和](./src/1.twoSum/note.md)
@@ -28,8 +32,3 @@ npm test
 - [20.有效的括号](./src/20.isValid/note.md)
 - [21.合并两个有序链表](./src/21.mergeTwoLists/note.md)
 - [26.删除排序数组中的重复项](./src/26.removeDuplicates/note.md)
-
-## Structure
-
-- [算法复杂度](./src/structure/complexity/note.md)
-- [单链表(Singly linked list)](./src/structure/linked-list/note.md)

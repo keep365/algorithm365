@@ -129,7 +129,7 @@ while (i <= n) {
 
 复杂度由 `两个数据的规模` 决定
 
-```npp
+```cpp
 int cal(int m, int n) {
   int sum_1 = 0;
   int i = 1;
@@ -153,7 +153,7 @@ m 和 n 的规模都不确定，都有影响，`O(m+n)`。相应的乘法为 `O(
 
 渐进空间复杂度，表示算法的 `存储空间` 和 `数据规模` 之间的 `增长关系`。常用的为 `O(1)` `O(n)` `O(n^2)`。
 
-```npp
+```cpp
 void print(int n) {
   int i = 0;
   int[] a = new int[n]; // 申请了大小为 n 的数组
