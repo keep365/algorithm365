@@ -33,3 +33,4 @@ npm test
 - [21.合并两个有序链表](./src/21.mergeTwoLists/note.md)
 - [26.删除排序数组中的重复项](./src/26.removeDuplicates/note.md)
 - [27.移除元素](./src/27.removeElement/note.md)
+- [28.实现 strStr](./src/28.strStr/note.md)
