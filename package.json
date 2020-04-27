@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "欢迎 issue 讨论 😀",
   "main": "index.js",
-  "type": "module",
   "directories": {
     "test": "test"
   },
