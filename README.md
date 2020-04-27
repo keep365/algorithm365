@@ -34,3 +34,4 @@ npm test
 - [26.删除排序数组中的重复项](./src/26.removeDuplicates/note.md)
 - [27.移除元素](./src/27.removeElement/note.md)
 - [28.实现 strStr](./src/28.strStr/note.md)
+- [35.搜索插入位置](./src/35.searchInsert/note.md)
