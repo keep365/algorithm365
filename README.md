@@ -35,3 +35,4 @@ npm test
 - [27.移除元素](./src/27.removeElement/note.md)
 - [28.实现 strStr](./src/28.strStr/note.md)
 - [35.搜索插入位置](./src/35.searchInsert/note.md)
+- [38.外观数列](./src/38.countAndSay/note.md)
