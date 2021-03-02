@@ -10,7 +10,7 @@
 - [算法复杂度](./complexity/note.md)
 - [最好、最坏、平均、均摊](./complexity/compare.md)
 - [数组](./array/note.md)
-- [栈]
+- [栈](./stack/note.md)
 - [队列]
 - [链表](./linked-list/note.md)
 - [递归](./recursive/note.md)
