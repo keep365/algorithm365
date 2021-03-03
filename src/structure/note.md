@@ -11,7 +11,7 @@
 - [最好、最坏、平均、均摊](./complexity/compare.md)
 - [数组](./array/note.md)
 - [栈](./stack/note.md)
-- [队列]
+- [队列](./queue/note.md)
 - [链表](./linked-list/note.md)
 - [递归](./recursive/note.md)
 - [排序、二分查找]
