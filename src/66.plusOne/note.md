@@ -15,6 +15,9 @@ https://leetcode-cn.com/problems/plus-one/
 
 ### 1.暴力
 
+- T **_O(n)_**
+- S **_O(1)_**
+
 ```js
 const plusOne = function (arr) {
   let num = 0
