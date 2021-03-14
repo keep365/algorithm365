@@ -43,3 +43,4 @@ npm test
 ## Middle
 
 - [24.两两交换链表中的节点](./src/24.swapPairs/note.md)
+- [189.旋转数组](./src/189.rotate/note.md)
