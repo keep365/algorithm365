@@ -15,6 +15,9 @@ https://leetcode-cn.com/problems/climbing-stairs/
 
 ### 1.动态规划
 
+- T **_O(n)_**
+- S **_O(n)_**
+
 ```js
 const climbStairs = function (n) {
   const f = {}

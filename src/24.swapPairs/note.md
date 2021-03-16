@@ -20,6 +20,9 @@ https://leetcode-cn.com/problems/swap-nodes-in-pairs/
 - tmp -> next // 第一次时，将 pre 指向 交换后的 next，pre.next 即为交换后的链表，下一步之后 tmp 指向交换后的前一个节点，以此链接到之后交换的链表
 - tmp = start // 将 tmp 移动到下次交换的前一个节点，交换后可使上一步链接到交换后链表
 
+- T **_O(n)_**
+- S **_O(1)_**
+
 ```js
 const swapPairs = function (list) {
   const pre = new ListNode()
@@ -42,6 +45,9 @@ const swapPairs = function (list) {
 ```
 
 ### 2.递归
+
+- T **_O(n)_**
+- S **_O(n)_**
 
 ```
 [1, 2, 3, 4]

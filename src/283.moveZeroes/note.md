@@ -13,6 +13,9 @@ https://leetcode-cn.com/problems/move-zeroes/
 
 ### 1.双指针
 
+- T **_O(n)_**
+- S **_O(1)_**
+
 ```js
 const moveZeroes = function (nums) {
   const len = nums.length
